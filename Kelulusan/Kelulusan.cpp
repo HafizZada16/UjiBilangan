@@ -1,7 +1,7 @@
+//Program Kelulusan
+
 #include <iostream>
 using namespace std;
-
-// Program Kelulusan
 
 int main() {
 	int nilMtk, nilBahasa, nilFisika;
