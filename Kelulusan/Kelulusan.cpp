@@ -19,7 +19,7 @@ int main() {
 
 	if (nilMtk > 70 || rerata > 60) {
 		status = "Lulus";
-		if (nilFisika >= 90 ) {
+		if (nilFisika >= 90) {
 			status = "Kelulusan Terbaik";
 		}
 	}
